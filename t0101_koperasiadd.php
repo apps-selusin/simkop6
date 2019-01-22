@@ -477,8 +477,7 @@ class ct0101_koperasi_add extends ct0101_koperasi {
 		$this->Nama->CurrentValue = NULL;
 		$this->Nama->OldValue = $this->Nama->CurrentValue;
 		$this->Alamat->CurrentValue = '-';
-		$this->NoTelpHP->CurrentValue = NULL;
-		$this->NoTelpHP->OldValue = $this->NoTelpHP->CurrentValue;
+		$this->NoTelpHP->CurrentValue = '-';
 	}
 
 	// Load form values

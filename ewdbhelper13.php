@@ -29,7 +29,7 @@ class cdb_simkop6_db extends cDbHelper {
 
 	// Database connection info
 	var $Host = 'localhost';
-	var $Port = 3306;
+	var $Port = 3307;
 	var $Username = 'root';
 	var $Password = 'admin';
 	var $DbName = 'db_simkop6';
