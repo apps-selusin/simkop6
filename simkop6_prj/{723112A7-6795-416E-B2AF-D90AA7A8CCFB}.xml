@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2019/01/22" author="e.World Technology Ltd.">
+  <project id="{723112A7-6795-416E-B2AF-D90AA7A8CCFB}" file="" name="simkop6_prj" product="PHPMaker" version="13.0" datetime="2019/01/22 14:42:26" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="t0101_koperasi" name="t0101_koperasi" caption="Koperasi" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0102_marketing" name="t0102_marketing" caption="Marketing" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0201_nasabah" name="t0201_nasabah" caption="t 0201 nasabah" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0202_jaminan" name="t0202_jaminan" caption="t 0202 jaminan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0301_pinjaman" name="t0301_pinjaman" caption="t 0301 pinjaman" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0302_angsuran" name="t0302_angsuran" caption="t 0302 angsuran" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0303_titipan" name="t0303_titipan" caption="t 0303 titipan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0304_potongan" name="t0304_potongan" caption="t 0304 potongan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0401_periode" name="t0401_periode" caption="t 0401 periode" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0402_rekening" name="t0402_rekening" caption="t 0402 rekening" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0403_rektran" name="t0403_rektran" caption="t 0403 rektran" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0404_jurnal" name="t0404_jurnal" caption="t 0404 jurnal" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0405_neraca" name="t0405_neraca" caption="t 0405 neraca" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0406_labarugi" name="t0406_labarugi" caption="t 0406 labarugi" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9901_employees" name="t9901_employees" caption="t 9901 employees" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9902_userlevels" name="t9902_userlevels" caption="t 9902 userlevels" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9903_userlevelpermissions" name="t9903_userlevelpermissions" caption="t 9903 userlevelpermissions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9904_audittrail" name="t9904_audittrail" caption="t 9904 audittrail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="cf01_home_php" name="cf01_home.php" caption="Home" userlevel="-2,&quot;Anonymous&quot;,8;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
