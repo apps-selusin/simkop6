@@ -4987,6 +4987,15 @@ function Database_Connecting(&$info) {
 	//	$info["pass"] = "";
 	//}
 
+	if (ew_CurrentUserIP () == "127.0.0.1"  || ew_CurrentUserIP () == ":: 1"  || ew_CurrentHost () == "localhost" ) { // testing on local PC
+		$info["host"] = "localhost";
+		$info["user"] = "root"; // sesuaikan dengan username database di komputer localhost
+		$info["pass"] = "admin"; // sesuaikan dengan password database di komputer localhost
+		$lines=file('01_db.txt');foreach ($lines as $line_num => $line){$value = $line;}
+		$info["db"] = $value; //"db_simkop5"; // sesuaikan dengan nama database di komputer localhost
+		$lines=file('00_dbport.txt');foreach ($lines as $line_num => $line){$port = $line;}
+		$info["port"] = $port; //$info["port"] = "3306";
+	}
 }
 
 // Database Connected event
